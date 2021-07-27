@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Thapar subjects\Computer Graphics\Project\project_shooting\project_shooting\Source.cpp(675,34): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  project_shooting.vcxproj -> D:\Thapar subjects\Computer Graphics\Project\project_shooting\Debug\project_shooting.exe
